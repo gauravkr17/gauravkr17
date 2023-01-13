@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkr17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gauravkr_17" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_cloud?logo=twitter&style=for-the-badge" alt="gaurav_cloud" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gauravkr_17" target="blank"><img src="https://img.shields.io/twitter/follow/gauravkr_17?logo=twitter&style=for-the-badge" alt="gauravkr_17" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravkr_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_cloud" height="30" width="40" /></a>
+<a href="https://twitter.com/gauravkr_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravkr_17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav029" height="30" width="40" /></a>
 <a href="https://hashnode.com/@gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gaurav029" height="30" width="40" /></a>
