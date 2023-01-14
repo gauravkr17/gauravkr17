@@ -1,4 +1,4 @@
-![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate learner from India.</h3>
