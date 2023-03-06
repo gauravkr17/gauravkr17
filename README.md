@@ -31,15 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkr17&show_icons=true&locale=en&layout=compact" alt="gauravkr17" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkr17&show_icons=true&locale=en" alt="gauravkr17" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkr17&" alt="gauravkr17" /></p>
-
-<div align="center">
-
-
-
-![Gaurav's GitHub activity graph](https://raw.githubusercontent.com/gauravkr17/gauravkr17/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
-
-
-![Gauravs's GitHub activity graph](https://raw.githubusercontent.com/gauravkr17/gauravkr17/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-
-</div>
