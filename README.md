@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/gauravkr_17" target="blank"><img src="https://img.shields.io/twitter/follow/gauravkr_17?logo=twitter&style=for-the-badge" alt="gauravkr_17" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA & C**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+<!-- - 💬 Ask me about **HTML, CSS, JAVASCRIPT** -->
 
 - 📫 How to reach me **gauravkr7265@gmail.com**
 
