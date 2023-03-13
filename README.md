@@ -1,8 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate learner from India.</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkr17" /> </p>
+
+<p><h3 align="center">A passionate learner from India.</h3>
+<img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkr17" align="right"/></p>
 
 <img align="right" alt="coding" width="380" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350">
 
