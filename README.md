@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 
 <p><h3 align="center">A passionate learner from India.</h3></p>
+<img align="right" alt="coding" width="410" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="380">
 
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Visitors&color=0e75b6&style=flat"/></p>
 <p align="justify"><a href="https://twitter.com/gauravkr_17" target="blank"><img src="https://img.shields.io/twitter/follow/gauravkr_17?logo=twitter&style=for-the-badge" alt="gauravkr_17"/></a></p>
-
-<img align="right" alt="coding" width="410" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="380">
 
 - 🌱 I’m currently learning **JAVA & C**
 
